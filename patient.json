@@ -1,0 +1,41 @@
+[
+  {
+    "patientId": "P001",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "phone": "555-1001",
+    "dateOfBirth": "1979-06-15",
+    "street": "123 Main Street",
+    "city": "New York",
+    "state": "NY",
+    "country": "USA",
+    "postalCode": "10001"
+  },
+  {
+    "patientId": "P002",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "gender": "Female",
+    "phone": "555-1002",
+    "dateOfBirth": "1988-02-10",
+    "street": "45 Park Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "USA",
+    "postalCode": "60601"
+  },
+  {
+    "patientId": "P003",
+    "firstName": "Michael",
+    "lastName": "Brown",
+    "gender": "Male",
+    "phone": "555-1003",
+    "dateOfBirth": "1992-09-25",
+    "street": "78 Lake View Road",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "USA",
+    "postalCode": "75201"
+  }
+]
