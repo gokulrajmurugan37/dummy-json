@@ -37,44 +37,5 @@
     "state": "TX",
     "country": "USA",
     "postalCode": "75201"
-  },
-  {
-    "patientId": "P004",
-    "firstName": "Emily",
-    "lastName": "Johnson",
-    "gender": "Female",
-    "phone": "555-1004",
-    "dateOfBirth": "1980-12-05",
-    "street": "12 Sunset Blvd",
-    "city": "Los Angeles",
-    "state": "CA",
-    "country": "USA",
-    "postalCode": "90001"
-  },
-  {
-    "patientId": "P005",
-    "firstName": "David",
-    "lastName": "Wilson",
-    "gender": "Male",
-    "phone": "555-1005",
-    "dateOfBirth": "1975-03-18",
-    "street": "200 Hill Street",
-    "city": "Seattle",
-    "state": "WA",
-    "country": "USA",
-    "postalCode": "98101"
-  },
-  {
-    "patientId": "P006",
-    "firstName": "Sophia",
-    "lastName": "Taylor",
-    "gender": "Female",
-    "phone": "555-1006",
-    "dateOfBirth": "1996-07-07",
-    "street": "90 Ocean Drive",
-    "city": "Miami",
-    "state": "FL",
-    "country": "USA",
-    "postalCode": "33101"
   }
 ]
